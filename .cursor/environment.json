@@ -1,0 +1,11 @@
+{
+  "name": "mrmattress-crm-bridge",
+  "install": "npm ci",
+  "terminals": [
+    {
+      "name": "bridge",
+      "command": "npm start"
+    }
+  ],
+  "ports": [3000]
+}
